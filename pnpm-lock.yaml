@@ -2370,9 +2370,9 @@ packages:
   /@docsearch/react/3.0.0-alpha.32_react-dom@16.14.0+react@16.14.0:
     resolution: {integrity: sha512-2jqzPJu4y0mWiwwm+Kfgf/97Q8XaGxj1+jJfGJpJLkJyD8S2tK4OikyIRWI9gI9k3m48HxFm0+P8uAYYtIyjqA==}
     peerDependencies:
-      '@types/react': '>= 16.8.0 < 18.0.0'
-      react: '>= 16.8.0 < 18.0.0'
-      react-dom: '>= 16.8.0 < 18.0.0'
+      '@types/react': '>= 18.2.0 < 18.0.0'
+      react: '>= 18.2.0 < 18.0.0'
+      react-dom: '>= 18.2.0 < 18.0.0'
     dependencies:
       '@algolia/autocomplete-core': 1.0.0-alpha.39
       '@algolia/autocomplete-preset-algolia': 1.0.0-alpha.39_algoliasearch@4.8.4
@@ -2389,8 +2389,8 @@ packages:
     engines: {node: '>=10.15.1'}
     hasBin: true
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@babel/core': 7.12.10
       '@babel/generator': 7.12.11
@@ -2492,8 +2492,8 @@ packages:
     resolution: {integrity: sha512-CDR4O4z7wO5/S8O3TAggCynnuBIGIlUT9q9uhhkDe8h5XDhF8n8d6bwqir0O+fUMN3EnyrMq6z1g4IDRB5G2vw==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@babel/parser': 7.12.11
       '@babel/traverse': 7.12.12
@@ -2527,8 +2527,8 @@ packages:
     resolution: {integrity: sha512-qWXlSDovkhCZLJR0Wz4e3YcNjlelpuSNkS1rJ8sI1ehs/n32lj7A/nVoRfS/LnOMfIciY48vVPr64VLb6dfEeg==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/mdx-loader': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -2559,8 +2559,8 @@ packages:
     resolution: {integrity: sha512-LZre12Q0sxLgi2XgjQbNQMV+jFG7v0+8hRzgBL+iCRiLCa4NlV7+M6mEHJGJJXSKqbfH7CelaUOESqEgPpVQXQ==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/mdx-loader': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -2598,8 +2598,8 @@ packages:
     resolution: {integrity: sha512-HiFa5l1RDs155ATyYKkPtyIs/d6WJgSAyVfY5ji0Bsixp/K/Kh9YUZYMeTfeMIdhGYe3AAJz+PSZHYRpwTo1wA==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/mdx-loader': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -2628,8 +2628,8 @@ packages:
     resolution: {integrity: sha512-h/x5KtS/YJerhY6C6sJOaP9gMaSVnjj1qZ6r9E/IFujQJ7bSKnk1unqBQpVXADkQhP081ENPL01ubc0/JbE1Mw==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/types': 2.0.0-alpha.70
@@ -2649,8 +2649,8 @@ packages:
     resolution: {integrity: sha512-Ah9W83ZnA0VvmflKNuGq5f/CaEjWJxhjkISQn09/ykEvXfWV33000Bhck4RoCr5YxD+GBEBT5suG5LKH7Qkigw==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       react: 16.14.0
@@ -2667,8 +2667,8 @@ packages:
     resolution: {integrity: sha512-K3s894PqMPQnGXEZs0bSs2bRE3bVXFYSb/RN+K9sNd7zxGuOX4UytuvpXP+1r0Hj/YTwQIjj7AKsND0ZpDJHyw==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       react: 16.14.0
@@ -2685,8 +2685,8 @@ packages:
     resolution: {integrity: sha512-ev9yNLPoeHP03jTz67daGd7yA7YhUwHeoWz14SyiKuU7OYtwL/8SJTn/V5kMDRl7o8FRQt9T//mRkpa270hmXw==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/types': 2.0.0-alpha.70
@@ -2707,8 +2707,8 @@ packages:
     resolution: {integrity: sha512-Zx98KryJjHiqzGisWKR0glXl0HXuf/YbcK9yUl6ySyS+6cIMAuGMS0HGLgbvvEmYjywz7nMLpijzGderEOihjQ==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/plugin-content-blog': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -2736,8 +2736,8 @@ packages:
     resolution: {integrity: sha512-lKU+fgSd08fo3LNYTw31Wty7RgAdFm8bEOwBNkKZcCFnatTSG4qyDbrDZclCQT/SpXSv9XIEKUc0irg2IH6Qrg==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/plugin-content-blog': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -2775,8 +2775,8 @@ packages:
     resolution: {integrity: sha512-Ge/dLGPCJhtyvumSMg0BlWcF00d1Qd2KnHf8kL/0nTxe257yNTHIOK95LKhIPAdcVgxG+ge9N0XcBm4KaubASQ==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
       '@docusaurus/plugin-content-blog': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -2797,8 +2797,8 @@ packages:
     resolution: {integrity: sha512-xuoWZ+HUKzn1A5vPlNZM8mtyRL5uo15o34OX/i7HkTRmBVymWO1bBE0lECfDVJU2JUYGmwjpDXhZzNLDZmZRWg==}
     engines: {node: '>=10.15.1'}
     peerDependencies:
-      react: ^16.8.4
-      react-dom: ^16.8.4
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@docsearch/react': 3.0.0-alpha.32_react-dom@16.14.0+react@16.14.0
       '@docusaurus/core': 2.0.0-alpha.70_react-dom@16.14.0+react@16.14.0
@@ -13169,8 +13169,8 @@ packages:
   /react-toast-notifications/2.4.0_react-dom@16.14.0+react@16.14.0:
     resolution: {integrity: sha512-8tkrbNh7LxkiFmtqAL/AiI55efIeI+fBk3c6ImsiZ0VObb4yvOq0cqYuJHyUiv9fuD2aBxvXGVH+n4Snt8qoWA==}
     peerDependencies:
-      react: ^16.8.0
-      react-dom: ^16.8.0
+      react: ^18.2.0
+      react-dom: ^18.2.0
     dependencies:
       '@emotion/core': 10.1.1_react@16.14.0
       react: 16.14.0
